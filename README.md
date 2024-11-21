@@ -2,7 +2,7 @@
 
 Small application showing games released 2024.
 
-## Built with
+## Technologies Used
 
 -   **React**
 -   **Vite**
